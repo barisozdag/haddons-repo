@@ -2,5 +2,8 @@
 
 ## ⬆️ Dependency updates
 
-- Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 @dependabot (#1)
-- ⬆ Upgrades Plex Media Server to 1.22.1.4275-48e10484b @barisozdag (#2)
+- ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 @dependabot (#3)
+- ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#4)
+- ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#5)
+- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 @dependabot (#6)
+- ⬆ Upgrades Plex Media Server to 1.22.2.4282-a97b03fad @barisozdag (#7)
