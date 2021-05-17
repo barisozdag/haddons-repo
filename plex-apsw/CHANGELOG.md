@@ -1,16 +1,11 @@
 ## What’s changed
 
-## 🐛 Bug fixes
-
-- Fix updated repository structure & CI workflow @barisozdag (#12)
-
-## 🧰 Maintenance
-
-- Apply updated repository structure & CI workflow @barisozdag (#10)
-- Fix updated repository structure & CI workflow @barisozdag (#12)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 @dependabot (#8)
-- ⬆️ Upgrades add-on base image to v6.2.0 @barisozdag (#9)
-- ⬆️ Upgrades Plex Media Server to 1.22.3.4392 @barisozdag (#11)
+- Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 @dependabot (#14)
+- Bump docker/setup-buildx-action from v1.1.2 to v1.2.0 @dependabot (#13)
+- Bump docker/login-action from v1.8.0 to v1.9.0 @dependabot (#15)
+- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 @dependabot (#16)
+- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 @dependabot (#17)
+- Bump frenck/action-addon-linter from 2 to 2.1 @dependabot (#18)
+- ⬆️ Upgrades Plex Media Server to 1.22.3.4523 @barisozdag (#19)
