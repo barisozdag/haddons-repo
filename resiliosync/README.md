@@ -12,6 +12,6 @@ paid versions, this add-on supports both.
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
-[release]: https://github.com/barisozdag/addon-resiliosync/tree/v0.1.1
+[release-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[release]: https://github.com/barisozdag/addon-resiliosync/tree/v1.0.0
 [resilio]: https://www.resilio.com/individuals/
