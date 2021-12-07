@@ -3,6 +3,11 @@ name: Lock
 
 # yamllint disable-line rule:truthy
 on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
   workflows:
     uses: barisozdag/workflows/.github/workflows/lock.yaml@main
     secrets:

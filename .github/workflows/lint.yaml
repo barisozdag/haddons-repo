@@ -1,7 +1,17 @@
+
 ---
 name: Lint
 
 # yamllint disable-line rule:truthy
 on:
+  push:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+  workflow_dispatch:
+
+jobs:
   workflows:
     uses: barisozdag/workflows/.github/workflows/repository-lint.yaml@main
