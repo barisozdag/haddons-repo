@@ -1,9 +1,9 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🧰 Maintenance
 
-- Move release info to build file @barisozdag (#67)
+- 🚑 Change workflow GITHUB_TOKEN to ADDON_TOKEN @barisozdag (#69)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades Plex Media Server to 1.25.1.5286 @barisozdag (#68)
+- ⬆️ Upgrades Plex Media Server to 1.25.2.5319 @barisozdag (#70)
