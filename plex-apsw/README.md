@@ -12,7 +12,7 @@ beautiful and easy to enjoy. The Plex Media Server provided by this addon,
 organizes your personal video, music, and photo collections
 and streams them to all of your devices.
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.3.10-blue.svg
-[release]: https://github.com/barisozdag/addon-plex/tree/v0.3.10
+[release-shield]: https://img.shields.io/badge/version-v0.3.11-blue.svg
+[release]: https://github.com/barisozdag/addon-plex/tree/v0.3.11

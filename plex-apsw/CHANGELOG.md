@@ -2,8 +2,8 @@
 
 ## 🧰 Maintenance
 
-- 🚑 Change workflow GITHUB_TOKEN to ADDON_TOKEN @barisozdag (#69)
+- Happy New Year @barisozdag (#71)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades Plex Media Server to 1.25.2.5319 @barisozdag (#70)
+- ⬆️ Upgrades Plex Media Server to 1.25.3.5385 @barisozdag (#72)
