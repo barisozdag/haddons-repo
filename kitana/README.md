@@ -13,7 +13,7 @@ full PMS connection awareness and allows you to connect locally, remotely,
 or even via relay.
 
 [kitana]: https://github.com/pannal/Kitana
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.1.2-blue.svg
-[release]: https://github.com/barisozdag/addon-kitana/tree/v0.1.2
+[release-shield]: https://img.shields.io/badge/version-v0.1.3-blue.svg
+[release]: https://github.com/barisozdag/addon-kitana/tree/v0.1.3
