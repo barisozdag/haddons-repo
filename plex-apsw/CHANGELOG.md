@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades Plex Media Server to 1.25.8.5663 @barisozdag (#81)
+- ⬆️ Upgrades Plex Media Server to 1.25.9.5721 @barisozdag (#82)
