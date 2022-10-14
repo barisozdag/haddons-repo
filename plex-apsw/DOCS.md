@@ -10,7 +10,6 @@ and streams them to all of your devices.
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
-1. [![Add repository to your Home Assitant instance.][repository-badge]][repository]
 1. Click the Home Assistant My button below to open the add-on on your Home
    Assistant instance.
 
@@ -23,8 +22,8 @@ comparison to installing any other Home Assistant add-on.
 1. Check the logs of the "Plex Media Server" to see if everything went well.
 1. Login to the Plex admin interface and complete the setup process.
 
-**NOTE**: When adding media locations, please use `/share` as the base
-directory.
+**NOTE**: When adding media locations, please use `/share` and `/media`
+as the base directories.
 
 ## Configuration
 
@@ -35,7 +34,6 @@ Example add-on configuration:
 ```yaml
 log_level: info
 claim_code: claim-cAMrqBarisFU4x445Tn
-webtools: true
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -68,24 +66,6 @@ In order to get your code surf to <https://www.plex.tv/claim>.
 
 This code is only used once by the add-on. As soon as the
 server is successfully authenticated with Plex, the code may be removed.
-
-### Option: `webtools`
-
-[WebTools][webtools] is a plug-in that contains a collection of tools
-for the Plex Media Server.
-
-Some of the tools:
-
-- Manage Subs (Subtitles)
-- Logs (PMS)
-- UAS (Unsupported App Store)
-- FindMedia
-- PlayLists
-- TechInfo
-
-The plugin also allows you to add and install custom plugins.
-
-Set this variable to `true` to enable it.
 
 ## Solving connection issues with Plex
 
@@ -206,12 +186,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_plex-apsw
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_plex-apsw&repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
 [contributors]: https://github.com/barisozdag/addon-plex/graphs/contributors
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/barisozdag/addon-plex/issues
 [releases]: https://github.com/barisozdag/addon-plex/releases
-[repository-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
 [semver]: http://semver.org/spec/v2.0.0.htm
-[webtools]: https://github.com/ukdtom/WebTools.bundle/wiki
