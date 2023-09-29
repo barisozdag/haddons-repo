@@ -14,5 +14,5 @@ and streams them to all of your devices.
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v1.0.14-blue.svg
-[release]: https://github.com/barisozdag/addon-plex/tree/v1.0.14
+[release-shield]: https://img.shields.io/badge/version-v1.0.16-blue.svg
+[release]: https://github.com/barisozdag/addon-plex/tree/v1.0.16
