@@ -1,15 +1,11 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- 🔒 Sign add-on with Codenotary CAS @barisozdag (#52)
-
 ## 🧰 Maintenance
 
-- 🚑 Change workflow GITHUB_TOKEN to ADDON_TOKEN @barisozdag (#50)
-- Happy New Year @barisozdag (#51)
+- Update CI Workflows @barisozdag (#55)
+- 🎆 Updates maintenance/license year to 2023 @barisozdag (#56)
 
-## 📚 Documentation
+## ⬆️ Dependency updates
 
-- 📚 Add My buttons to documentation @barisozdag (#53)
-- 📚 Add My buttons to documentation @barisozdag (#54)
+- ⬆️ Upgrades Kitana to 0.4.3-2 @barisozdag (#57)
+- ⬆️ Upgrades bashio to v0.16.0 @barisozdag (#58)
