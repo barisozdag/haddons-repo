@@ -1,3 +1,5 @@
 ## What’s changed
 
-* First release
+## 🚨 Breaking changes
+
+- Drops armv7 support @barisozdag (#4)
