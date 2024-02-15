@@ -1,21 +1,18 @@
 ## What’s changed
 
-## ✨ New features
-
-- Map possible hardware acceleration devices into add-on @barisozdag (#122)
-
 ## 🐛 Bug fixes
 
-- Remove stale plexmediaserver.pid on startup @barisozdag (#123)
+- Add support for more Intel based Hardware Acceleration @barisozdag (#126)
 
 ## 🚀 Enhancements
 
-- Install Plex Media Server from Debian package @barisozdag (#121)
+- Migrate from Ubuntu to Debian @barisozdag (#125)
 
 ## 🧰 Maintenance
 
-- 🔨 Migrate old-style S6 scripts to s6-rc.d @barisozdag (#119)
+- 🎉️ Happy New Year @barisozdag (#124)
+- Update logo/icon to current version @barisozdag (#127)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 9.0.1 @barisozdag (#120)
+- ⬆️ Upgrades Plex Media Server to 1.40.0.7998 @barisozdag (#128)
