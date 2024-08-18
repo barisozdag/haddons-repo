@@ -1,5 +1,6 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## ⬆️ Dependency updates
 
-- Fixes permission error @barisozdag (#13)
+- ⬆️ Upgrades add-on base image to 16.2.1 @barisozdag (#14)
+- ⬆️ Upgrades CloudCMD to 18.1.0 @barisozdag (#15)
