@@ -2,5 +2,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 16.2.1 @barisozdag (#14)
-- ⬆️ Upgrades CloudCMD to 18.1.0 @barisozdag (#15)
+- ⬆️ Upgrades add-on base image to 16.3.4 @barisozdag (#16)
+- ⬆️ Upgrades CloudCMD to 18.2.0 @barisozdag (#17)
