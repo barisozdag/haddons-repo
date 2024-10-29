@@ -2,5 +2,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 7.5.0 @barisozdag (#140)
-- ⬆️ Upgrades Plex Media Server to 1.41.0.8994 @barisozdag (#141)
+- ⬆️ Upgrades add-on base image to 7.5.1 @barisozdag (#142)
+- ⬆️ Upgrades Plex Media Server to 1.41.1.9057 @barisozdag (#143)
