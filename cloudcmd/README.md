@@ -12,8 +12,8 @@ command-line console and a text editor. Cloud Commander helps you manage your
 server and work with files, directories and programs in a web browser from
 any computer, mobile or tablet.
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v1.1.5-blue.svg
-[release]: https://github.com/barisozdag/addon-cloudcmd/tree/v1.1.5
+[release-shield]: https://img.shields.io/badge/version-v1.1.6-blue.svg
+[release]: https://github.com/barisozdag/addon-cloudcmd/tree/v1.1.6
 [cloudcmd]: https://github.com/coderaiser/cloudcmd
