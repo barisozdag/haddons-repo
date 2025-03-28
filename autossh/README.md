@@ -19,7 +19,7 @@ would like to open ports on other interfaces than localhost.
 listen on all interfaces, `0.0.0.0`. `GatewayPorts clientspecified`
 is preferable.
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.4.0-blue.svg
-[release]: https://github.com/barisozdag/addon-autossh/tree/v0.4.0
+[release-shield]: https://img.shields.io/badge/version-v0.4.1-blue.svg
+[release]: https://github.com/barisozdag/addon-autossh/tree/v0.4.1
