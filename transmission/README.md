@@ -11,5 +11,5 @@ Small and powerful Torrent client for Home Assistant with custom UI.
 [transmission]: https://transmissionbt.com/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.2.4-blue.svg
-[release]: https://github.com/barisozdag/addon-transmission/tree/v0.2.4
+[release-shield]: https://img.shields.io/badge/version-v0.3.0-blue.svg
+[release]: https://github.com/barisozdag/addon-transmission/tree/v0.3.0
